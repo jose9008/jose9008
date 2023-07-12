@@ -8,12 +8,12 @@
 <!-- Header -->
 <div align="center">
   <h1>Hi 👋, I'm Jose</h1>
-  <h3>A software developer</h3>
+  <h3>A Software Developer ⚡⚡⚡</h3>
 </div>
 
 <!-- Other Stats -->
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose9008&theme=dark" alt="ky13d3nt0n" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose9008&theme=dark" alt="jose9008" />
 </div>
 
 <!-- Language & Tools -->
@@ -237,15 +237,26 @@
   </tbody>
 </table>
 
-<!-- Stats -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jose9008&show_icons=true&theme=nord&count_private=true&hide=stars" alt="José Carlos GitHub Stats Card"/>
+&nbsp;
+&nbsp;
+&nbsp;
 
+<!-- Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jose9008&show_icons=true&theme=nord&count_private=true&hide=stars" alt="José Carlos GitHub Stats Card"/>
+ -->
+ 
 <!-- Languages -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose9008&layout=compact&theme=nord" alt="Readme Stats" />
 </div>
 
 &nbsp;
+&nbsp;
+
+<div align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=jose9008&theme=onedark&row=2&rank=SECRET,S,SS,A,AAA,B,C" alt="jose9008" />
+</div>
 
 <!--
 **jose9008/jose9008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
