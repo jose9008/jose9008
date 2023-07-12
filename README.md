@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<!-- Profile Views -->
+<div>
+  <a align="left" href="https://www.linkedin.com/in/jose9008" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jose9008" />
+  </a> 
+</div>
+
 <!--
 **jose9008/jose9008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
